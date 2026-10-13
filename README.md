@@ -6,7 +6,7 @@ Windows app by [Excess Pro Net LLC](https://excesspronet.com) that turns a whole
 
 ## Download
 
-**[Latest release](https://github.com/alfonsitosenx/embroidery-screenshot-studio-pro/releases/latest)** — `EmbroideryScreenshotStudioPro_Setup_1.0.0.exe` (21 MB)
+**[Latest release](https://github.com/alfonsitosenx/embroidery-screenshot-studio-pro/releases/latest)** — `EmbroideryScreenshotStudioPro_Setup_1.0.1.exe` (21 MB)
 
 The installer includes everything the app needs; nothing else has to be installed.
 
@@ -42,6 +42,6 @@ The installer includes everything the app needs; nothing else has to be installe
 
 ---
 
-SHA-256 of the installer: `0427344b7202c090b3b72f1082050839a48792bfbcc20f1a5854e1ce0694479b`
+SHA-256 of the installer: `53d2adebe8436a6307b0494996b60d479d63611a35554a652fb275ea5be3f970`
 
 © 2026 Excess Pro Net LLC, Wyoming, USA.
